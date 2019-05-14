@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome visitor! 
 
-You can use the [editor on GitHub](https://github.com/lorenzonavarini/lorenzonavarini/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Lorenzo Navarini and I am a Master student at the University of Vienna. Previously, I have been a Research Assistant at the United Nations Industrial Development Organization. In August, I am going to be Research Assistant for the European Centre for Social Welfare Policy and Research (https://www.euro.centre.org/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests are: macroeconomics, political economy, labour economics and health economics.
+
+I am planning to apply for a PhD.
 
 ### Markdown
 
