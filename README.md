@@ -4,31 +4,9 @@ My name is Lorenzo Navarini and I am a Master student at the University of Vienn
 
 My research interests are: macroeconomics, political economy, labour economics and health economics.
 
-I am planning to apply for a PhD.
+I plan to apply for a PhD.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+On this website, you can find more about myself and my research projects. 
 
 ### Jekyll Themes
 
